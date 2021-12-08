@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javase-3.3.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/zxing/javase/3.3.0/javase-3.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
