@@ -1,6 +1,9 @@
 # GoogleCSAgent_cdf
 CSAgent 与 GoogleAuth 的缝合体，cobalt strike4.4版本的破解+otp动态口令的agent
 
+*止步于4.4,不再对该项目做4.5版本更新（4.5针对javaagent的暗桩有点多不想一个个改了。）*
+
+
 编译：`mvn clean package -DskipTests`
 
 使用方法：
